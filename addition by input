@@ -1,0 +1,12 @@
+print("hello")   # printing my first statement
+
+x = int(input("enter first number nikhil"))
+y = int(input("enter second number nikhil"))
+a = x + y
+print(f'answer is ',a)
+
+
+
+
+
+
